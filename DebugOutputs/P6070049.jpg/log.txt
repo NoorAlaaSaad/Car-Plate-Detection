@@ -1,0 +1,3 @@
+[2025-12-15 23:34:06] Processing: /home/noor-alaa/Downloads/Car-Plate-Detection /Images/P6070049.jpg
+[2025-12-15 23:34:07] Chars mask size: 240x1187
+[2025-12-15 23:34:07] Recognized: 8J878CA

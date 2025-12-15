@@ -1,0 +1,3 @@
+[2025-12-15 23:34:00] Processing: /home/noor-alaa/Downloads/Car-Plate-Detection /Images/P6070001.jpg
+[2025-12-15 23:34:01] Chars mask size: 240x994
+[2025-12-15 23:34:02] Recognized: BBH655ZEF

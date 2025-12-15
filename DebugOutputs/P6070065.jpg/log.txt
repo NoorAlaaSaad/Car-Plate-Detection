@@ -1,0 +1,3 @@
+[2025-12-15 23:34:07] Processing: /home/noor-alaa/Downloads/Car-Plate-Detection /Images/P6070065.jpg
+[2025-12-15 23:34:09] Chars mask size: 240x928
+[2025-12-15 23:34:09] Recognized: UU48BAU

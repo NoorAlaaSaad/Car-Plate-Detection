@@ -1,0 +1,3 @@
+[2025-12-15 23:33:54] Processing: /home/noor-alaa/Downloads/Car-Plate-Detection /Images/P6040017.jpg
+[2025-12-15 23:33:55] Chars mask size: 240x1068
+[2025-12-15 23:33:55] Recognized: ZG884AM

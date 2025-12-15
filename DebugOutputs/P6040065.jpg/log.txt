@@ -1,0 +1,3 @@
+[2025-12-15 23:33:59] Processing: /home/noor-alaa/Downloads/Car-Plate-Detection /Images/P6040065.jpg
+[2025-12-15 23:34:00] Chars mask size: 240x893
+[2025-12-15 23:34:00] Recognized: 221BYE06

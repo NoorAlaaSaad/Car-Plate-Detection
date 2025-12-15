@@ -1,0 +1,3 @@
+[2025-12-15 23:34:11] Processing: /home/noor-alaa/Downloads/Car-Plate-Detection /Images/P6070097.jpg
+[2025-12-15 23:34:12] Chars mask size: 240x944
+[2025-12-15 23:34:12] Recognized: ZG93J3F

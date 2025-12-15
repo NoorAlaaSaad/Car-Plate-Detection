@@ -1,0 +1,3 @@
+[2025-12-15 23:34:02] Processing: /home/noor-alaa/Downloads/Car-Plate-Detection /Images/P6070017.jpg
+[2025-12-15 23:34:03] Chars mask size: 240x800
+[2025-12-15 23:34:04] Recognized: UUB41CC
