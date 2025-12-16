@@ -1,0 +1,3 @@
+[2025-12-16 08:13:10] Processing: /MATLAB Drive/Car-Plate-Detection/Samples/P6070001.jpg
+[2025-12-16 08:13:12] Chars mask size: 240x994
+[2025-12-16 08:13:13] Recognized: BBH633ZEF

@@ -1,0 +1,3 @@
+[2025-12-16 08:20:11] Processing: /MATLAB Drive/Car-Plate-Detection/Batch-040603/P6040066.jpg
+[2025-12-16 08:20:13] Chars mask size: 240x965
+[2025-12-16 08:20:15] Recognized: ZG6839AI

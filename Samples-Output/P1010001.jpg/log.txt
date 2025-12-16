@@ -1,0 +1,3 @@
+[2025-12-16 08:12:54] Processing: /MATLAB Drive/Car-Plate-Detection/Samples/P1010001.jpg
+[2025-12-16 08:12:57] Chars mask size: 240x855
+[2025-12-16 08:12:59] Recognized: 1171NVX75

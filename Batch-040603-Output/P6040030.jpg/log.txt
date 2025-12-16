@@ -1,0 +1,3 @@
+[2025-12-16 08:18:09] Processing: /MATLAB Drive/Car-Plate-Detection/Batch-040603/P6040030.jpg
+[2025-12-16 08:18:11] Chars mask size: 240x1241
+[2025-12-16 08:18:12] Recognized: LDJ100EE

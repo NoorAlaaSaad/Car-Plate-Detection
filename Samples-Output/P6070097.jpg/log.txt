@@ -1,0 +1,3 @@
+[2025-12-16 08:13:29] Processing: /MATLAB Drive/Car-Plate-Detection/Samples/P6070097.jpg
+[2025-12-16 08:13:31] Chars mask size: 240x944
+[2025-12-16 08:13:32] Recognized: ZG9343F

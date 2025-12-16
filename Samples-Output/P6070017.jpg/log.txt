@@ -1,0 +1,3 @@
+[2025-12-16 08:13:13] Processing: /MATLAB Drive/Car-Plate-Detection/Samples/P6070017.jpg
+[2025-12-16 08:13:15] Chars mask size: 240x800
+[2025-12-16 08:13:16] Recognized: DU641CC

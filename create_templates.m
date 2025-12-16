@@ -12,12 +12,16 @@ baseDir = 'char/';
 fileMapping = {
     % Letters
     'A.bmp', 'A'; 'fillA.bmp', 'A';
-    'B.bmp', 'B'; 'fillB.bmp', 'B';
-    'C.bmp', 'C';
-    'D.bmp', 'D'; 'fillD.bmp', 'D';
-    'E.bmp', 'E'; 'F.bmp', 'F'; 'G.bmp', 'G'; 'H.bmp', 'H';
-    'I.bmp', 'I'; 'J.bmp', 'J'; 'K.bmp', 'K'; 'L.bmp', 'L';
-    'M.bmp', 'M'; 'N.bmp', 'N';
+    'B.bmp', 'B'; 'fillB.bmp', 'B'; 'B_custom.bmp', 'B';
+    'C.bmp', 'C'; 'C_custom.bmp', 'C'; 'C_custom_2.bmp', 'C';
+    'D.bmp', 'D'; 'fillD.bmp', 'D'; 'D_custom.bmp', 'D';
+    'E.bmp', 'E'; 'F.bmp', 'F';
+    'G.bmp', 'G'; 'G_custom.bmp', 'G';
+    'H.bmp', 'H';
+    'I.bmp', 'I'; 'I_custom.bmp', 'I';
+    'J.bmp', 'J'; 'K.bmp', 'K'; 'L.bmp', 'L';
+    'M.bmp', 'M';
+    'N.bmp', 'N'; 'N_custom.bmp', 'N';
     'O.bmp', 'O'; 'fillO.bmp', 'O';
     'P.bmp', 'P'; 'fillP.bmp', 'P';
     'Q.bmp', 'Q'; 'fillQ.bmp', 'Q';
@@ -26,15 +30,16 @@ fileMapping = {
     'W.bmp', 'W'; 'X.bmp', 'X'; 'Y.bmp', 'Y'; 'Z.bmp', 'Z';
     
     % Numbers
-    '1.bmp', '1'; '1_custom.bmp', '1'; % <--- ADDED THIS NEW TEMPLATE
-    '2.bmp', '2'; '3.bmp', '3';
-    '4.bmp', '4'; 'fill4.bmp', '4';
+    '1.bmp', '1'; '1_custom.bmp', '1'; '1_custom_2.bmp', '1'; '1_custom_3.bmp', '1'; % <--- ADDED THIS NEW TEMPLATE
+    '2.bmp', '2';
+    '3.bmp', '3'; '3_custom.bmp', '3'; '3_custom_2.bmp', '3';
+    '4.bmp', '4'; 'fill4.bmp', '4'; '4_custom.bmp', '4';
     '5.bmp', '5';
-    '6.bmp', '6'; 'fill6.bmp', '6'; 'fill6_2.bmp', '6';
+    '6.bmp', '6'; 'fill6.bmp', '6'; 'fill6_2.bmp', '6'; '6_custom.bmp', '6';
     '7.bmp', '7'; '7_custom.bmp', '7';
-    '8.bmp', '8'; 'fill8.bmp', '8';
-    '9.bmp', '9'; 'fill9.bmp', '9'; 'fill9_2.bmp', '9';
-    '0.bmp', '0'; 'fill0.bmp', '0';
+    '8.bmp', '8'; 'fill8.bmp', '8'; '8_custom.bmp', '8'; '8_custom_2.bmp', '8';
+    '9.bmp', '9'; 'fill9.bmp', '9'; 'fill9_2.bmp', '9'; '9_custom.bmp', '9';
+    '0.bmp', '0'; 'fill0.bmp', '0'; '0_custom.bmp', '0';
 };
 
 % Initialize the structure array

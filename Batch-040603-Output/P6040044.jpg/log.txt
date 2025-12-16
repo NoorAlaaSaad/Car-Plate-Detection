@@ -1,0 +1,4 @@
+[2025-12-16 08:18:58] Processing: /MATLAB Drive/Car-Plate-Detection/Batch-040603/P6040044.jpg
+[2025-12-16 08:18:58] [WARN] Strict filter found no plate. Trying fallback...
+[2025-12-16 08:19:00] Chars mask size: 240x315
+[2025-12-16 08:19:01] Recognized: 

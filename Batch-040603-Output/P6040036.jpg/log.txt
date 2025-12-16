@@ -1,0 +1,3 @@
+[2025-12-16 08:18:30] Processing: /MATLAB Drive/Car-Plate-Detection/Batch-040603/P6040036.jpg
+[2025-12-16 08:18:32] Chars mask size: 240x939
+[2025-12-16 08:18:33] Recognized: FAM165

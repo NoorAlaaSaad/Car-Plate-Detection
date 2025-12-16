@@ -9,7 +9,7 @@ function letter = readLetter(snap)
 
     % 1. Resize the input image to match template standard size
     snapResized = imresize(snap, [42 24]);
-    % imwrite(snapResized, '7_custom.bmp', 'bmp');
+    % imwrite(snapResized, 'D_custom.bmp', 'bmp');
 
 
     % 2. Calculate Correlations

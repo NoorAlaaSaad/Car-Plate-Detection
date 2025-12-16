@@ -1,0 +1,3 @@
+[2025-12-16 08:19:52] Processing: /MATLAB Drive/Car-Plate-Detection/Batch-040603/P6040060.jpg
+[2025-12-16 08:19:54] Chars mask size: 240x983
+[2025-12-16 08:19:55] Recognized: PU865HZ

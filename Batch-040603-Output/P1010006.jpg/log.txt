@@ -1,0 +1,3 @@
+[2025-12-16 08:16:42] Processing: /MATLAB Drive/Car-Plate-Detection/Batch-040603/P1010006.jpg
+[2025-12-16 08:16:44] Chars mask size: 240x960
+[2025-12-16 08:16:46] Recognized: KIQ3GC

@@ -1,0 +1,3 @@
+[2025-12-16 08:19:59] Processing: /MATLAB Drive/Car-Plate-Detection/Batch-040603/P6040062.jpg
+[2025-12-16 08:20:01] Chars mask size: 240x1105
+[2025-12-16 08:20:02] Recognized: LHGAS1802

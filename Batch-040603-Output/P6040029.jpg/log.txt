@@ -1,0 +1,3 @@
+[2025-12-16 08:18:05] Processing: /MATLAB Drive/Car-Plate-Detection/Batch-040603/P6040029.jpg
+[2025-12-16 08:18:07] Chars mask size: 240x871
+[2025-12-16 08:18:09] Recognized: EDAL551

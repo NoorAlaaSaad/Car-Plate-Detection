@@ -1,0 +1,3 @@
+[2025-12-16 08:19:15] Processing: /MATLAB Drive/Car-Plate-Detection/Batch-040603/P6040049.jpg
+[2025-12-16 08:19:16] Chars mask size: 240x1143
+[2025-12-16 08:19:18] Recognized: LI4O

@@ -7,12 +7,12 @@
 
 clc;
 close all;
-clear;
+clear all;
 
 % --- Paths / setup ---
 rootDir   = fileparts(mfilename('fullpath'));
-imagesDir = fullfile(rootDir, 'Images');
-outRoot   = fullfile(rootDir, 'DebugOutputs');
+imagesDir = fullfile(rootDir, 'Batch-040603');
+outRoot   = fullfile(rootDir, 'Batch-040603-Output');
 
 if ~exist(outRoot, 'dir'), mkdir(outRoot); end
 

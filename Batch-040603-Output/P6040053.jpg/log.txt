@@ -1,0 +1,3 @@
+[2025-12-16 08:19:28] Processing: /MATLAB Drive/Car-Plate-Detection/Batch-040603/P6040053.jpg
+[2025-12-16 08:19:30] Chars mask size: 240x1092
+[2025-12-16 08:19:31] Recognized: KA451CC

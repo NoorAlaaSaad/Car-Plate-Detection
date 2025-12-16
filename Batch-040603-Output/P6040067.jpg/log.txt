@@ -1,0 +1,3 @@
+[2025-12-16 08:20:15] Processing: /MATLAB Drive/Car-Plate-Detection/Batch-040603/P6040067.jpg
+[2025-12-16 08:20:17] Chars mask size: 240x496
+[2025-12-16 08:20:18] Recognized: 

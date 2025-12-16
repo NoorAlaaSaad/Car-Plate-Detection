@@ -1,0 +1,3 @@
+[2025-12-16 08:16:46] Processing: /MATLAB Drive/Car-Plate-Detection/Batch-040603/P6040007.jpg
+[2025-12-16 08:16:48] Chars mask size: 240x960
+[2025-12-16 08:16:50] Recognized: LLJ465H

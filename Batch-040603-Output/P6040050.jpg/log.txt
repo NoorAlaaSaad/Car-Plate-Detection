@@ -1,0 +1,3 @@
+[2025-12-16 08:19:18] Processing: /MATLAB Drive/Car-Plate-Detection/Batch-040603/P6040050.jpg
+[2025-12-16 08:19:20] Chars mask size: 240x1135
+[2025-12-16 08:19:21] Recognized: ST329JH

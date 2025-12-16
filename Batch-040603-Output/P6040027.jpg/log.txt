@@ -1,0 +1,3 @@
+[2025-12-16 08:17:58] Processing: /MATLAB Drive/Car-Plate-Detection/Batch-040603/P6040027.jpg
+[2025-12-16 08:18:01] Chars mask size: 240x1227
+[2025-12-16 08:18:02] Recognized: MAQ398AG

@@ -1,0 +1,3 @@
+[2025-12-16 08:13:16] Processing: /MATLAB Drive/Car-Plate-Detection/Samples/P6070033.jpg
+[2025-12-16 08:13:18] Chars mask size: 240x1004
+[2025-12-16 08:13:19] Recognized: CA890BCJ

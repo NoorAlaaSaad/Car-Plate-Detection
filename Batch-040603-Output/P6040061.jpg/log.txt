@@ -1,0 +1,3 @@
+[2025-12-16 08:19:55] Processing: /MATLAB Drive/Car-Plate-Detection/Batch-040603/P6040061.jpg
+[2025-12-16 08:19:57] Chars mask size: 240x900
+[2025-12-16 08:19:59] Recognized: PU2D3ID
